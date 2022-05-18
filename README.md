@@ -1,6 +1,6 @@
 # Frontend Mentor - Order summary card
 
-![Design preview for the Order summary card coding challenge](https://ordrer-summmary-component.vercel.app/)
+[Design preview for the Order summary card coding challenge](https://ordrer-summmary-component.vercel.app/)
 
 ## Welcome! 👋
 
