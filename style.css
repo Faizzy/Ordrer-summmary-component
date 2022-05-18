@@ -112,6 +112,11 @@ body {
 
 
 @media screen  and (max-width: 375px ) {
+    body {
+    background: url(images/pattern-background-mobile.svg) no-repeat;
+    background-size: cover;
+    background-color: hsl(225, 100%, 94%);
+    }
     .content {
         width: 330px;
         border-radius: 20px;
